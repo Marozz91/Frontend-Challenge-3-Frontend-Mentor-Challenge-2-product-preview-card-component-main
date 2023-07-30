@@ -1,4 +1,4 @@
-Link: [link to project]()
+Link: [link to project](https://marozz91.github.io/Frontend-Mentor-Challenge-2-product-preview-card-component-main/)
 
 # Frontend Mentor - Product preview card component
 
